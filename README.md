@@ -31,7 +31,7 @@ positional arguments:
 ```
 
 ### Parameter specification
-The parameters for the algorithm can be specified in a file located in the same folder as the runner, called `params.json`.
+The parameters for the algorithm can be specified in a file located in the same folder as the runner, called `params.json` (**Make sure to rename it!**).
 
 It looks like this for my own algorithm:
 ```json
