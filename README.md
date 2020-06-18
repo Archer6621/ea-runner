@@ -34,7 +34,7 @@ positional arguments:
 The parameters for the algorithm can be specified in a file located in the same folder as the runner, called `params.json`.
 
 It looks like this for my own algorithm:
-```
+```json
 {
 	"n" : [2048],	
 	"max_evaluations" : [100000],
