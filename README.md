@@ -47,7 +47,7 @@ It looks like this for my own algorithm:
 }
 ```
 
-The runner will take the carthesian product between all these lists, and feed the arguments to the algorithm command in the same order as they appear in the json file. It runs all these combinations for every eligible instance (with the right size and variant number) on the instance path. Naturally, if every list contains just one element, there will only be one combination. In this specific case for my algorithm, it will run it with greedy initialization and without, for each eligible instance, times the number of repeats.
+The runner will take the cartesian product between all these lists, and feed the arguments to the algorithm command in the same order as they appear in the json file. It runs all these combinations for every eligible instance (with the right size and variant number) on the instance path. Naturally, if every list contains just one element, there will only be one combination. In this specific case for my algorithm, it will run it with greedy initialization and without, for each eligible instance, times the number of repeats.
 
 ### Usage Example
 This is an example for my own algorithm.
