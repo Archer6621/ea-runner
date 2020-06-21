@@ -13,6 +13,8 @@ The algorithm must satisfy the following input/output interface:
 ```
 Input:  <path_to_instance> <all other params...>
 Output: <best_found>, <evaluations>
+
+both output values must be integers.
 ```
 So basically, as long as it accepts the instance path first (only the path to the `.txt` file), it will work fine.
 
